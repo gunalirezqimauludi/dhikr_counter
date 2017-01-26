@@ -1,0 +1,38 @@
+body {
+    background-color: #ff1744;
+    color: white;
+}
+
+td p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.container {
+    max-width: 80.0rem;
+    padding-bottom: 7.5rem;
+    padding-top: 7.5rem;
+}
+
+.button-white {
+  background-color: white;
+  border-color: white;
+	color: white;
+}
+
+.button-white.button-clear,
+.button-white.button-outline {
+  background-color: transparent;
+  color: white;
+}
+
+.button-white.button-clear {
+  border-color: transparent;
+}
+
+.button-large {
+    font-size: 1.4rem;
+    height: 4.5rem;
+    line-height: 4.5rem;
+    padding: 0 2rem;
+}
