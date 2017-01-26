@@ -1,7 +1,7 @@
 # Dhikr Counter App
 
 ## Screenshot
-<img width="100%" src="https://s23.postimg.org/5rky4f5ob/ezgif_com_crop.gif" alt="Milligram - A minimalist CSS framework">
+<img width="100%" src="https://media.giphy.com/media/LANvIkqTagHHG/giphy.gif" alt="Milligram - A minimalist CSS framework">
 
 ## What is this
 This is an application to counting dhikr using speech
